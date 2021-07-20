@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\Data-Structures-Fundamentals\06.Heaps-BST-Lab-Skeleton\03.PriorityQueue\bin\Debug\netstandard2.0\03.PriorityQueue.deps.json
+C:\Users\User\Desktop\Data-Structures-Fundamentals\06.Heaps-BST-Lab-Skeleton\03.PriorityQueue\bin\Debug\netstandard2.0\03.PriorityQueue.dll
+C:\Users\User\Desktop\Data-Structures-Fundamentals\06.Heaps-BST-Lab-Skeleton\03.PriorityQueue\bin\Debug\netstandard2.0\03.PriorityQueue.pdb
+C:\Users\User\Desktop\Data-Structures-Fundamentals\06.Heaps-BST-Lab-Skeleton\03.PriorityQueue\obj\Debug\netstandard2.0\03.PriorityQueue.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Data-Structures-Fundamentals\06.Heaps-BST-Lab-Skeleton\03.PriorityQueue\obj\Debug\netstandard2.0\03.PriorityQueue.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Data-Structures-Fundamentals\06.Heaps-BST-Lab-Skeleton\03.PriorityQueue\obj\Debug\netstandard2.0\03.PriorityQueue.AssemblyInfo.cs
+C:\Users\User\Desktop\Data-Structures-Fundamentals\06.Heaps-BST-Lab-Skeleton\03.PriorityQueue\obj\Debug\netstandard2.0\03.PriorityQueue.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Data-Structures-Fundamentals\06.Heaps-BST-Lab-Skeleton\03.PriorityQueue\obj\Debug\netstandard2.0\03.PriorityQueue.dll
+C:\Users\User\Desktop\Data-Structures-Fundamentals\06.Heaps-BST-Lab-Skeleton\03.PriorityQueue\obj\Debug\netstandard2.0\03.PriorityQueue.pdb
