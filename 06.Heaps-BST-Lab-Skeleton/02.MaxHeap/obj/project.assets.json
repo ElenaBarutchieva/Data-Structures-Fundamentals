@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Downloads\\06.Heaps-BST-Lab-Skeleton\\02.MaxHeap\\02.MaxHeap.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\Data-Structures-Fundamentals\\06.Heaps-BST-Lab-Skeleton\\02.MaxHeap\\02.MaxHeap.csproj",
       "projectName": "02.MaxHeap",
-      "projectPath": "C:\\Users\\User\\Downloads\\06.Heaps-BST-Lab-Skeleton\\02.MaxHeap\\02.MaxHeap.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\Data-Structures-Fundamentals\\06.Heaps-BST-Lab-Skeleton\\02.MaxHeap\\02.MaxHeap.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Downloads\\06.Heaps-BST-Lab-Skeleton\\02.MaxHeap\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\Data-Structures-Fundamentals\\06.Heaps-BST-Lab-Skeleton\\02.MaxHeap\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

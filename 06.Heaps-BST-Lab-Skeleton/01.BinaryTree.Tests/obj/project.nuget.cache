@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "//OOX1LYi36bz+hc8WY7zsPRnxrjgieVvD6x33Zbh+uPHSCsmBtrtwPUQzaJaw7Mci3GyK5X43e75ogmdcRpvg==",
+  "dgSpecHash": "l5PwUGv2xFPiD36oL83aIQLzXxJx8AtiT70I+T3KaQb9XdrmtN4wKwP3JwsGqW32ijQiYlIZ4sx/FAxbAkvRYQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\Downloads\\06.Heaps-BST-Lab-Skeleton\\01.BinaryTree.Tests\\01.BinaryTree.Tests.csproj",
+  "projectFilePath": "C:\\Users\\User\\Desktop\\Data-Structures-Fundamentals\\06.Heaps-BST-Lab-Skeleton\\01.BinaryTree.Tests\\01.BinaryTree.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\microsoft.codecoverage\\16.4.0\\microsoft.codecoverage.16.4.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "urRVq7sVNVilvKR1KmPYlSkUnauZ73i8tg2CjT824H7zcz8XFEwQfLTI3zI7/ajQ/aLpffEvKqvfsBabHbD9Rg==",
+  "dgSpecHash": "2Rt7qYB3rx1f9KPt9He9dDxqtAJxpIoXSV5Y8D9kWV8/H19uGeVb3GcYCjN/ng/1EL5oW0LQLErIhMomnFdUHw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\Downloads\\06.Heaps-BST-Lab-Skeleton\\03.PriorityQueue\\03.PriorityQueue.csproj",
+  "projectFilePath": "C:\\Users\\User\\Desktop\\Data-Structures-Fundamentals\\06.Heaps-BST-Lab-Skeleton\\03.PriorityQueue\\03.PriorityQueue.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/7Kp4P7eCCFGN7gMj3R4LOJFjsKFULOlYGOAK/Adz7BgHOLE5i4WJDcr9bFerd1leyBCScB35+ogJrO1QRKjhQ==",
+  "dgSpecHash": "IjG0MZBlRTQpw6ZuliUNEH/wiOAErKFY1QkeAMG2p+vbUvsgyC4rqOS24rqHe5WN1AXpdYaWMQPv/Y3XnD4UUA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\Downloads\\06.Heaps-BST-Lab-Skeleton\\03.PriorityQueue.Tests\\03.PriorityQueue.Tests.csproj",
+  "projectFilePath": "C:\\Users\\User\\Desktop\\Data-Structures-Fundamentals\\06.Heaps-BST-Lab-Skeleton\\03.PriorityQueue.Tests\\03.PriorityQueue.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\microsoft.codecoverage\\16.4.0\\microsoft.codecoverage.16.4.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

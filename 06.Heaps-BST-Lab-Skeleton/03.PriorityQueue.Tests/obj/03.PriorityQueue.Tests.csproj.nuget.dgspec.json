@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Downloads\\06.Heaps-BST-Lab-Skeleton\\03.PriorityQueue.Tests\\03.PriorityQueue.Tests.csproj": {}
+    "C:\\Users\\User\\Desktop\\Data-Structures-Fundamentals\\06.Heaps-BST-Lab-Skeleton\\03.PriorityQueue.Tests\\03.PriorityQueue.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Downloads\\06.Heaps-BST-Lab-Skeleton\\03.PriorityQueue.Tests\\03.PriorityQueue.Tests.csproj": {
+    "C:\\Users\\User\\Desktop\\Data-Structures-Fundamentals\\06.Heaps-BST-Lab-Skeleton\\03.PriorityQueue.Tests\\03.PriorityQueue.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Downloads\\06.Heaps-BST-Lab-Skeleton\\03.PriorityQueue.Tests\\03.PriorityQueue.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\Data-Structures-Fundamentals\\06.Heaps-BST-Lab-Skeleton\\03.PriorityQueue.Tests\\03.PriorityQueue.Tests.csproj",
         "projectName": "03.PriorityQueue.Tests",
-        "projectPath": "C:\\Users\\User\\Downloads\\06.Heaps-BST-Lab-Skeleton\\03.PriorityQueue.Tests\\03.PriorityQueue.Tests.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\Data-Structures-Fundamentals\\06.Heaps-BST-Lab-Skeleton\\03.PriorityQueue.Tests\\03.PriorityQueue.Tests.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Downloads\\06.Heaps-BST-Lab-Skeleton\\03.PriorityQueue.Tests\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\Data-Structures-Fundamentals\\06.Heaps-BST-Lab-Skeleton\\03.PriorityQueue.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\User\\Downloads\\06.Heaps-BST-Lab-Skeleton\\03.PriorityQueue\\03.PriorityQueue.csproj": {
-                "projectPath": "C:\\Users\\User\\Downloads\\06.Heaps-BST-Lab-Skeleton\\03.PriorityQueue\\03.PriorityQueue.csproj"
+              "C:\\Users\\User\\Desktop\\Data-Structures-Fundamentals\\06.Heaps-BST-Lab-Skeleton\\03.PriorityQueue\\03.PriorityQueue.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\Data-Structures-Fundamentals\\06.Heaps-BST-Lab-Skeleton\\03.PriorityQueue\\03.PriorityQueue.csproj"
               }
             }
           }
@@ -76,14 +76,14 @@
         }
       }
     },
-    "C:\\Users\\User\\Downloads\\06.Heaps-BST-Lab-Skeleton\\03.PriorityQueue\\03.PriorityQueue.csproj": {
+    "C:\\Users\\User\\Desktop\\Data-Structures-Fundamentals\\06.Heaps-BST-Lab-Skeleton\\03.PriorityQueue\\03.PriorityQueue.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Downloads\\06.Heaps-BST-Lab-Skeleton\\03.PriorityQueue\\03.PriorityQueue.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\Data-Structures-Fundamentals\\06.Heaps-BST-Lab-Skeleton\\03.PriorityQueue\\03.PriorityQueue.csproj",
         "projectName": "03.PriorityQueue",
-        "projectPath": "C:\\Users\\User\\Downloads\\06.Heaps-BST-Lab-Skeleton\\03.PriorityQueue\\03.PriorityQueue.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\Data-Structures-Fundamentals\\06.Heaps-BST-Lab-Skeleton\\03.PriorityQueue\\03.PriorityQueue.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Downloads\\06.Heaps-BST-Lab-Skeleton\\03.PriorityQueue\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\Data-Structures-Fundamentals\\06.Heaps-BST-Lab-Skeleton\\03.PriorityQueue\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

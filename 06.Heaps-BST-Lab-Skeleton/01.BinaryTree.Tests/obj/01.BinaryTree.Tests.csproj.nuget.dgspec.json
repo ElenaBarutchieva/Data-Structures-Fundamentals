@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Downloads\\06.Heaps-BST-Lab-Skeleton\\01.BinaryTree.Tests\\01.BinaryTree.Tests.csproj": {}
+    "C:\\Users\\User\\Desktop\\Data-Structures-Fundamentals\\06.Heaps-BST-Lab-Skeleton\\01.BinaryTree.Tests\\01.BinaryTree.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Downloads\\06.Heaps-BST-Lab-Skeleton\\01.BinaryTree.Tests\\01.BinaryTree.Tests.csproj": {
+    "C:\\Users\\User\\Desktop\\Data-Structures-Fundamentals\\06.Heaps-BST-Lab-Skeleton\\01.BinaryTree.Tests\\01.BinaryTree.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Downloads\\06.Heaps-BST-Lab-Skeleton\\01.BinaryTree.Tests\\01.BinaryTree.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\Data-Structures-Fundamentals\\06.Heaps-BST-Lab-Skeleton\\01.BinaryTree.Tests\\01.BinaryTree.Tests.csproj",
         "projectName": "01.BinaryTree.Tests",
-        "projectPath": "C:\\Users\\User\\Downloads\\06.Heaps-BST-Lab-Skeleton\\01.BinaryTree.Tests\\01.BinaryTree.Tests.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\Data-Structures-Fundamentals\\06.Heaps-BST-Lab-Skeleton\\01.BinaryTree.Tests\\01.BinaryTree.Tests.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Downloads\\06.Heaps-BST-Lab-Skeleton\\01.BinaryTree.Tests\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\Data-Structures-Fundamentals\\06.Heaps-BST-Lab-Skeleton\\01.BinaryTree.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\User\\Downloads\\06.Heaps-BST-Lab-Skeleton\\01.BinaryTree\\01.BinaryTree.csproj": {
-                "projectPath": "C:\\Users\\User\\Downloads\\06.Heaps-BST-Lab-Skeleton\\01.BinaryTree\\01.BinaryTree.csproj"
+              "C:\\Users\\User\\Desktop\\Data-Structures-Fundamentals\\06.Heaps-BST-Lab-Skeleton\\01.BinaryTree\\01.BinaryTree.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\Data-Structures-Fundamentals\\06.Heaps-BST-Lab-Skeleton\\01.BinaryTree\\01.BinaryTree.csproj"
               }
             }
           }
@@ -76,14 +76,14 @@
         }
       }
     },
-    "C:\\Users\\User\\Downloads\\06.Heaps-BST-Lab-Skeleton\\01.BinaryTree\\01.BinaryTree.csproj": {
+    "C:\\Users\\User\\Desktop\\Data-Structures-Fundamentals\\06.Heaps-BST-Lab-Skeleton\\01.BinaryTree\\01.BinaryTree.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Downloads\\06.Heaps-BST-Lab-Skeleton\\01.BinaryTree\\01.BinaryTree.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\Data-Structures-Fundamentals\\06.Heaps-BST-Lab-Skeleton\\01.BinaryTree\\01.BinaryTree.csproj",
         "projectName": "01.BinaryTree",
-        "projectPath": "C:\\Users\\User\\Downloads\\06.Heaps-BST-Lab-Skeleton\\01.BinaryTree\\01.BinaryTree.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\Data-Structures-Fundamentals\\06.Heaps-BST-Lab-Skeleton\\01.BinaryTree\\01.BinaryTree.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Downloads\\06.Heaps-BST-Lab-Skeleton\\01.BinaryTree\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\Data-Structures-Fundamentals\\06.Heaps-BST-Lab-Skeleton\\01.BinaryTree\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -6,27 +6,24 @@
     public class MaxHeap<T> : IAbstractHeap<T>
         where T : IComparable<T>
     {
-        private List<T> heap;
+        private List<T> InternalList;
 
         public MaxHeap()
         {
-            this.heap = new List<T>();
+            this.InternalList = new List<T>();
         }
-        public int Size { get { return this.heap.Count; } }
+        public int Size { get { return this.InternalList.Count; } }
 
         public void Add(T element)
         {
-            this.heap.Add(element);
-            Heapify(this.heap.Count - 1);
+            this.InternalList.Add(element);
+            Heapify(this.InternalList.Count - 1);
         }
 
         public T Peek()
         {
-            if (this.heap.Count == 0)
-            {
-                throw new InvalidOperationException();
-            }
-            return this.heap[0];
+            this.ValidateIfNotempty();
+            return this.InternalList[0];
         }
 
         private void Heapify(int index)
@@ -38,12 +35,20 @@
 
             int parentIndex = (index - 1) / 2;
 
-            if (this.heap[index].CompareTo(this.heap[parentIndex]) > 0)
+            if (this.InternalList[index].CompareTo(this.InternalList[parentIndex]) > 0)
             {
-                T temp = this.heap[index];
-                this.heap[index] = this.heap[parentIndex];
-                this.heap[parentIndex] = temp;
+                T temp = this.InternalList[index];
+                this.InternalList[index] = this.InternalList[parentIndex];
+                this.InternalList[parentIndex] = temp;
                 Heapify(parentIndex);
+            }
+        }
+
+        private void ValidateIfNotempty()
+        {
+            if (this.InternalList.Count == 0)
+            {
+                throw new InvalidOperationException();
             }
         }
     }

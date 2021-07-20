@@ -22,10 +22,40 @@
 
         public string AsIndentedPreOrder(int indent)
         {
-            return DFSPreOrder(this, indent).Trim();
+            if (indent < 0) return string.Empty;
+
+            return DFSPreOrderAsString(this, indent).Trim();
         }
 
-        private string DFSPreOrder(IAbstractBinaryTree<T> binaryTree, int indent)
+
+        public List<IAbstractBinaryTree<T>> InOrder()
+        {
+            var list = new List<IAbstractBinaryTree<T>>();
+            DFSInOrder(this, list);
+            return list;
+        }
+
+        public List<IAbstractBinaryTree<T>> PostOrder()
+        {
+            var list = new List<IAbstractBinaryTree<T>>();
+            DFSPostOrder(this, list);
+            return list;
+        }
+
+        public List<IAbstractBinaryTree<T>> PreOrder()
+        {
+            var list = new List<IAbstractBinaryTree<T>>();
+            DFSPreOrder(this, list);
+            return list;
+        }
+
+        public void ForEachInOrder(Action<T> action)
+        {
+            if (action == null) return;
+            DFSForEach(this, action);
+        }
+
+        private string DFSPreOrderAsString(IAbstractBinaryTree<T> binaryTree, int indent)
         {
             if (binaryTree == null)
             {
@@ -33,17 +63,10 @@
             }
             string result = $"{new string(' ', indent)}{binaryTree.Value}\r\n";
 
-            result += DFSPreOrder(binaryTree.LeftChild, indent + 2);
-            result += DFSPreOrder(binaryTree.RightChild, indent + 2);
+            result += DFSPreOrderAsString(binaryTree.LeftChild, indent + 2);
+            result += DFSPreOrderAsString(binaryTree.RightChild, indent + 2);
 
             return result;
-        }
-
-        public List<IAbstractBinaryTree<T>> InOrder()
-        {
-            var list = new List<IAbstractBinaryTree<T>>();
-            DFSInOrder(this, list);
-            return list;
         }
 
         private IAbstractBinaryTree<T> DFSInOrder(IAbstractBinaryTree<T> binaryTree, List<IAbstractBinaryTree<T>> list)
@@ -58,13 +81,6 @@
                 DFSInOrder(binaryTree.RightChild, list);
             }
             return binaryTree;
-        }
-
-        public List<IAbstractBinaryTree<T>> PostOrder()
-        {
-            var list = new List<IAbstractBinaryTree<T>>();
-            DFSPostOrder(this, list);
-            return list;
         }
 
         private IAbstractBinaryTree<T> DFSPostOrder(IAbstractBinaryTree<T> binaryTree, List<IAbstractBinaryTree<T>> list)
@@ -82,13 +98,6 @@
             return binaryTree;
         }
 
-        public List<IAbstractBinaryTree<T>> PreOrder()
-        {
-            var list = new List<IAbstractBinaryTree<T>>();
-            DFSPreOrder(this, list);
-            return list;
-        }
-
         private IAbstractBinaryTree<T> DFSPreOrder(IAbstractBinaryTree<T> binaryTree, List<IAbstractBinaryTree<T>> list)
         {
             list.Add(binaryTree);
@@ -103,18 +112,13 @@
             return binaryTree;
         }
 
-        public void ForEachInOrder(Action<T> action)
-        {
-            DFSForEach(this, action);
-        }
-
         private void DFSForEach(IAbstractBinaryTree<T> tree, Action<T> action)
         {
             if (tree.LeftChild != null)
             {
                 DFSForEach(tree.LeftChild, action);
             }
-            action(tree.Value);
+            action.Invoke(tree.Value);
             if (tree.RightChild != null)
             {
                 DFSForEach(tree.RightChild, action);

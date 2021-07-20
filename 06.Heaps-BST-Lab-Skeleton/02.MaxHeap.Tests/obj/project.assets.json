@@ -4641,11 +4641,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Downloads\\06.Heaps-BST-Lab-Skeleton\\02.MaxHeap.Tests\\02.MaxHeap.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\Data-Structures-Fundamentals\\06.Heaps-BST-Lab-Skeleton\\02.MaxHeap.Tests\\02.MaxHeap.Tests.csproj",
       "projectName": "02.MaxHeap.Tests",
-      "projectPath": "C:\\Users\\User\\Downloads\\06.Heaps-BST-Lab-Skeleton\\02.MaxHeap.Tests\\02.MaxHeap.Tests.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\Data-Structures-Fundamentals\\06.Heaps-BST-Lab-Skeleton\\02.MaxHeap.Tests\\02.MaxHeap.Tests.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Downloads\\06.Heaps-BST-Lab-Skeleton\\02.MaxHeap.Tests\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\Data-Structures-Fundamentals\\06.Heaps-BST-Lab-Skeleton\\02.MaxHeap.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4662,8 +4662,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\User\\Downloads\\06.Heaps-BST-Lab-Skeleton\\02.MaxHeap\\02.MaxHeap.csproj": {
-              "projectPath": "C:\\Users\\User\\Downloads\\06.Heaps-BST-Lab-Skeleton\\02.MaxHeap\\02.MaxHeap.csproj"
+            "C:\\Users\\User\\Desktop\\Data-Structures-Fundamentals\\06.Heaps-BST-Lab-Skeleton\\02.MaxHeap\\02.MaxHeap.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\Data-Structures-Fundamentals\\06.Heaps-BST-Lab-Skeleton\\02.MaxHeap\\02.MaxHeap.csproj"
             }
           }
         }

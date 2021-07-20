@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Downloads\\06.Heaps-BST-Lab-Skeleton\\03.PriorityQueue\\03.PriorityQueue.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\Data-Structures-Fundamentals\\06.Heaps-BST-Lab-Skeleton\\03.PriorityQueue\\03.PriorityQueue.csproj",
       "projectName": "03.PriorityQueue",
-      "projectPath": "C:\\Users\\User\\Downloads\\06.Heaps-BST-Lab-Skeleton\\03.PriorityQueue\\03.PriorityQueue.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\Data-Structures-Fundamentals\\06.Heaps-BST-Lab-Skeleton\\03.PriorityQueue\\03.PriorityQueue.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Downloads\\06.Heaps-BST-Lab-Skeleton\\03.PriorityQueue\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\Data-Structures-Fundamentals\\06.Heaps-BST-Lab-Skeleton\\03.PriorityQueue\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
