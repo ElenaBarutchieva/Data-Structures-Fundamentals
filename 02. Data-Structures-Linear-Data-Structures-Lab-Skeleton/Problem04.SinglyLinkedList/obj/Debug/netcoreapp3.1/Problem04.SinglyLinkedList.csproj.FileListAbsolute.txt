@@ -1,0 +1,9 @@
+C:\Users\User\Downloads\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\Problem04.SinglyLinkedList\bin\Debug\netcoreapp3.1\Problem04.SinglyLinkedList.deps.json
+C:\Users\User\Downloads\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\Problem04.SinglyLinkedList\bin\Debug\netcoreapp3.1\Problem04.SinglyLinkedList.dll
+C:\Users\User\Downloads\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\Problem04.SinglyLinkedList\bin\Debug\netcoreapp3.1\Problem04.SinglyLinkedList.pdb
+C:\Users\User\Downloads\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\Problem04.SinglyLinkedList\obj\Debug\netcoreapp3.1\Problem04.SinglyLinkedList.csprojAssemblyReference.cache
+C:\Users\User\Downloads\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\Problem04.SinglyLinkedList\obj\Debug\netcoreapp3.1\Problem04.SinglyLinkedList.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\Problem04.SinglyLinkedList\obj\Debug\netcoreapp3.1\Problem04.SinglyLinkedList.AssemblyInfo.cs
+C:\Users\User\Downloads\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\Problem04.SinglyLinkedList\obj\Debug\netcoreapp3.1\Problem04.SinglyLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\Problem04.SinglyLinkedList\obj\Debug\netcoreapp3.1\Problem04.SinglyLinkedList.dll
+C:\Users\User\Downloads\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\Problem04.SinglyLinkedList\obj\Debug\netcoreapp3.1\Problem04.SinglyLinkedList.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Problem03.Queue/1.0.0": {
+        "runtime": {
+          "Problem03.Queue.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Problem03.Queue/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

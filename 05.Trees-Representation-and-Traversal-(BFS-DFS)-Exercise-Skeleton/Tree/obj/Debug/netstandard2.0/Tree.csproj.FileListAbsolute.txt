@@ -1,0 +1,9 @@
+C:\Users\User\Downloads\05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton\Tree\bin\Debug\netstandard2.0\Tree.deps.json
+C:\Users\User\Downloads\05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton\Tree\bin\Debug\netstandard2.0\Tree.dll
+C:\Users\User\Downloads\05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton\Tree\bin\Debug\netstandard2.0\Tree.pdb
+C:\Users\User\Downloads\05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton\Tree\obj\Debug\netstandard2.0\Tree.csprojAssemblyReference.cache
+C:\Users\User\Downloads\05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton\Tree\obj\Debug\netstandard2.0\Tree.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton\Tree\obj\Debug\netstandard2.0\Tree.AssemblyInfo.cs
+C:\Users\User\Downloads\05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton\Tree\obj\Debug\netstandard2.0\Tree.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton\Tree\obj\Debug\netstandard2.0\Tree.dll
+C:\Users\User\Downloads\05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton\Tree\obj\Debug\netstandard2.0\Tree.pdb

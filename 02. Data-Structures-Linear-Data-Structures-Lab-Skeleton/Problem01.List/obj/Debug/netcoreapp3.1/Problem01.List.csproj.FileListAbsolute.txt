@@ -1,0 +1,9 @@
+C:\Users\User\Downloads\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\Problem01.List\obj\Debug\netcoreapp3.1\Problem01.List.csprojAssemblyReference.cache
+C:\Users\User\Downloads\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\Problem01.List\obj\Debug\netcoreapp3.1\Problem01.List.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\Problem01.List\obj\Debug\netcoreapp3.1\Problem01.List.AssemblyInfo.cs
+C:\Users\User\Downloads\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\Problem01.List\obj\Debug\netcoreapp3.1\Problem01.List.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\Problem01.List\bin\Debug\netcoreapp3.1\Problem01.List.deps.json
+C:\Users\User\Downloads\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\Problem01.List\bin\Debug\netcoreapp3.1\Problem01.List.dll
+C:\Users\User\Downloads\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\Problem01.List\bin\Debug\netcoreapp3.1\Problem01.List.pdb
+C:\Users\User\Downloads\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\Problem01.List\obj\Debug\netcoreapp3.1\Problem01.List.dll
+C:\Users\User\Downloads\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\Problem01.List\obj\Debug\netcoreapp3.1\Problem01.List.pdb

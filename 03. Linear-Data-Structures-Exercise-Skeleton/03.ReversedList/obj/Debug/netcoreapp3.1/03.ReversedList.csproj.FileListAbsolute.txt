@@ -1,0 +1,9 @@
+C:\Users\User\Downloads\03. Linear-Data-Structures-Exercise-Skeleton\03.ReversedList\bin\Debug\netcoreapp3.1\03.ReversedList.deps.json
+C:\Users\User\Downloads\03. Linear-Data-Structures-Exercise-Skeleton\03.ReversedList\bin\Debug\netcoreapp3.1\03.ReversedList.dll
+C:\Users\User\Downloads\03. Linear-Data-Structures-Exercise-Skeleton\03.ReversedList\bin\Debug\netcoreapp3.1\03.ReversedList.pdb
+C:\Users\User\Downloads\03. Linear-Data-Structures-Exercise-Skeleton\03.ReversedList\obj\Debug\netcoreapp3.1\03.ReversedList.csprojAssemblyReference.cache
+C:\Users\User\Downloads\03. Linear-Data-Structures-Exercise-Skeleton\03.ReversedList\obj\Debug\netcoreapp3.1\03.ReversedList.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\03. Linear-Data-Structures-Exercise-Skeleton\03.ReversedList\obj\Debug\netcoreapp3.1\03.ReversedList.AssemblyInfo.cs
+C:\Users\User\Downloads\03. Linear-Data-Structures-Exercise-Skeleton\03.ReversedList\obj\Debug\netcoreapp3.1\03.ReversedList.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\03. Linear-Data-Structures-Exercise-Skeleton\03.ReversedList\obj\Debug\netcoreapp3.1\03.ReversedList.dll
+C:\Users\User\Downloads\03. Linear-Data-Structures-Exercise-Skeleton\03.ReversedList\obj\Debug\netcoreapp3.1\03.ReversedList.pdb

@@ -1,0 +1,9 @@
+C:\Users\User\Downloads\06.Heaps-BST-Lab-Skeleton\01.BinaryTree\bin\Debug\netstandard2.0\01.BinaryTree.deps.json
+C:\Users\User\Downloads\06.Heaps-BST-Lab-Skeleton\01.BinaryTree\bin\Debug\netstandard2.0\01.BinaryTree.dll
+C:\Users\User\Downloads\06.Heaps-BST-Lab-Skeleton\01.BinaryTree\bin\Debug\netstandard2.0\01.BinaryTree.pdb
+C:\Users\User\Downloads\06.Heaps-BST-Lab-Skeleton\01.BinaryTree\obj\Debug\netstandard2.0\01.BinaryTree.csprojAssemblyReference.cache
+C:\Users\User\Downloads\06.Heaps-BST-Lab-Skeleton\01.BinaryTree\obj\Debug\netstandard2.0\01.BinaryTree.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\06.Heaps-BST-Lab-Skeleton\01.BinaryTree\obj\Debug\netstandard2.0\01.BinaryTree.AssemblyInfo.cs
+C:\Users\User\Downloads\06.Heaps-BST-Lab-Skeleton\01.BinaryTree\obj\Debug\netstandard2.0\01.BinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\06.Heaps-BST-Lab-Skeleton\01.BinaryTree\obj\Debug\netstandard2.0\01.BinaryTree.dll
+C:\Users\User\Downloads\06.Heaps-BST-Lab-Skeleton\01.BinaryTree\obj\Debug\netstandard2.0\01.BinaryTree.pdb

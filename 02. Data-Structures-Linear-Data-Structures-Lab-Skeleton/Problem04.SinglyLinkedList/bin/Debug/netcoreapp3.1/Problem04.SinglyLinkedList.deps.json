@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Problem04.SinglyLinkedList/1.0.0": {
+        "runtime": {
+          "Problem04.SinglyLinkedList.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Problem04.SinglyLinkedList/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
