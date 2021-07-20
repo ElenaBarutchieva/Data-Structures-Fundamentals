@@ -46,28 +46,21 @@
 
         private void HeapifyDown(int index)
         {
-            var leftChild = 2 * index + 1;
-            var rigthChild = 2 * index + 2;
+            var leftChildIndex = 2 * index + 1;
+            var rightChildIndex = 2 * index + 2;
+            var maxElementIndex = leftChildIndex;
 
-            if (index == this.InternalList.Count - 1 || leftChild > this.InternalList.Count - 1)
+            if (leftChildIndex >= this.InternalList.Count) return;
+
+            if (rightChildIndex <= this.InternalList.Count - 1 && IsBigger(rightChildIndex, leftChildIndex))
             {
-                return;
+                maxElementIndex = rightChildIndex;
             }
 
-            if (this.InternalList.Count == 2 && IsBigger(leftChild, index))
+            if (IsBigger(maxElementIndex, index))
             {
-                this.Swap(index, leftChild);
-            }
-
-            if (rigthChild <= this.InternalList.Count - 1 && IsBigger(leftChild, rigthChild) && IsBigger(leftChild, index))
-            {
-                this.Swap(index, leftChild);
-                this.HeapifyDown(leftChild);
-            }
-            else if (rigthChild <= this.InternalList.Count - 1 && IsBigger(rigthChild, leftChild) && IsBigger(rigthChild, index))
-            {
-                this.Swap(index, rigthChild);
-                this.HeapifyDown(rigthChild);
+                this.Swap(index, maxElementIndex);
+                this.HeapifyDown(maxElementIndex);
             }
         }
 
