@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\Data-Structures-Fundamentals\06.Heaps-BST-Lab-Skeleton\04.BinarySearchTree\bin\Debug\netstandard2.0\04.BinarySearchTree.deps.json
+C:\Users\User\Desktop\Data-Structures-Fundamentals\06.Heaps-BST-Lab-Skeleton\04.BinarySearchTree\bin\Debug\netstandard2.0\04.BinarySearchTree.dll
+C:\Users\User\Desktop\Data-Structures-Fundamentals\06.Heaps-BST-Lab-Skeleton\04.BinarySearchTree\bin\Debug\netstandard2.0\04.BinarySearchTree.pdb
+C:\Users\User\Desktop\Data-Structures-Fundamentals\06.Heaps-BST-Lab-Skeleton\04.BinarySearchTree\obj\Debug\netstandard2.0\04.BinarySearchTree.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Data-Structures-Fundamentals\06.Heaps-BST-Lab-Skeleton\04.BinarySearchTree\obj\Debug\netstandard2.0\04.BinarySearchTree.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Data-Structures-Fundamentals\06.Heaps-BST-Lab-Skeleton\04.BinarySearchTree\obj\Debug\netstandard2.0\04.BinarySearchTree.AssemblyInfo.cs
+C:\Users\User\Desktop\Data-Structures-Fundamentals\06.Heaps-BST-Lab-Skeleton\04.BinarySearchTree\obj\Debug\netstandard2.0\04.BinarySearchTree.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Data-Structures-Fundamentals\06.Heaps-BST-Lab-Skeleton\04.BinarySearchTree\obj\Debug\netstandard2.0\04.BinarySearchTree.dll
+C:\Users\User\Desktop\Data-Structures-Fundamentals\06.Heaps-BST-Lab-Skeleton\04.BinarySearchTree\obj\Debug\netstandard2.0\04.BinarySearchTree.pdb

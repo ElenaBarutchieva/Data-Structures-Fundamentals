@@ -54,8 +54,8 @@ namespace _04.BinarySearchTree.Tests
         {
             var searched = this._bst.Search(5);
             var root = searched.Root;
-            var left = searched.LeftChild;
-            var right = searched.RightChild;
+            var left = searched.Root.LeftChild;
+            var right = searched.Root.RightChild;
 
             Assert.AreEqual(5, root.Value);
             Assert.AreEqual(1, left.Value);
@@ -68,8 +68,8 @@ namespace _04.BinarySearchTree.Tests
             this._bst.Insert(-2);
             var searched = this._bst.Search(1);
             var root = searched.Root;
-            var left = searched.LeftChild;
-            var right = searched.RightChild;
+            var left = searched.Root.LeftChild;
+            var right = searched.Root.RightChild;
 
             Assert.AreEqual(1, root.Value);
             Assert.AreEqual(-2, left.Value);

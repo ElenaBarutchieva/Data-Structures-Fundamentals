@@ -11,12 +11,12 @@
 
         IAbstractBinarySearchTree<T> Search(T element);
 
-        Node<T> Root { get;  }
-
-        Node<T> LeftChild { get;  }
-
-        Node<T> RightChild { get; }
+        Node<T> Root { get;}
 
         T Value { get; }
+
+        Node<T> LeftChild { get; set; }
+
+        Node<T> RightChild { get; set; }
     }
 }

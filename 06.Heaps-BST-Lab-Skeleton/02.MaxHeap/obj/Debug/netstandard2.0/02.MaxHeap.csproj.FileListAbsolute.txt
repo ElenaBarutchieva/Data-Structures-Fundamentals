@@ -7,3 +7,12 @@ C:\Users\User\Downloads\06.Heaps-BST-Lab-Skeleton\02.MaxHeap\obj\Debug\netstanda
 C:\Users\User\Downloads\06.Heaps-BST-Lab-Skeleton\02.MaxHeap\obj\Debug\netstandard2.0\02.MaxHeap.csproj.CoreCompileInputs.cache
 C:\Users\User\Downloads\06.Heaps-BST-Lab-Skeleton\02.MaxHeap\obj\Debug\netstandard2.0\02.MaxHeap.dll
 C:\Users\User\Downloads\06.Heaps-BST-Lab-Skeleton\02.MaxHeap\obj\Debug\netstandard2.0\02.MaxHeap.pdb
+C:\Users\User\Desktop\Data-Structures-Fundamentals\06.Heaps-BST-Lab-Skeleton\02.MaxHeap\bin\Debug\netstandard2.0\02.MaxHeap.deps.json
+C:\Users\User\Desktop\Data-Structures-Fundamentals\06.Heaps-BST-Lab-Skeleton\02.MaxHeap\bin\Debug\netstandard2.0\02.MaxHeap.dll
+C:\Users\User\Desktop\Data-Structures-Fundamentals\06.Heaps-BST-Lab-Skeleton\02.MaxHeap\bin\Debug\netstandard2.0\02.MaxHeap.pdb
+C:\Users\User\Desktop\Data-Structures-Fundamentals\06.Heaps-BST-Lab-Skeleton\02.MaxHeap\obj\Debug\netstandard2.0\02.MaxHeap.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Data-Structures-Fundamentals\06.Heaps-BST-Lab-Skeleton\02.MaxHeap\obj\Debug\netstandard2.0\02.MaxHeap.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Data-Structures-Fundamentals\06.Heaps-BST-Lab-Skeleton\02.MaxHeap\obj\Debug\netstandard2.0\02.MaxHeap.AssemblyInfo.cs
+C:\Users\User\Desktop\Data-Structures-Fundamentals\06.Heaps-BST-Lab-Skeleton\02.MaxHeap\obj\Debug\netstandard2.0\02.MaxHeap.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Data-Structures-Fundamentals\06.Heaps-BST-Lab-Skeleton\02.MaxHeap\obj\Debug\netstandard2.0\02.MaxHeap.dll
+C:\Users\User\Desktop\Data-Structures-Fundamentals\06.Heaps-BST-Lab-Skeleton\02.MaxHeap\obj\Debug\netstandard2.0\02.MaxHeap.pdb
