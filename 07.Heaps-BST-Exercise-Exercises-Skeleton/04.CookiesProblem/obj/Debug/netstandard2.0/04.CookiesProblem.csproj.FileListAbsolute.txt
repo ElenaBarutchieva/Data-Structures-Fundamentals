@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\Data-Structures-Fundamentals\07.Heaps-BST-Exercise-Exercises-Skeleton\04.CookiesProblem\bin\Debug\netstandard2.0\04.CookiesProblem.deps.json
+C:\Users\User\Desktop\Data-Structures-Fundamentals\07.Heaps-BST-Exercise-Exercises-Skeleton\04.CookiesProblem\bin\Debug\netstandard2.0\04.CookiesProblem.dll
+C:\Users\User\Desktop\Data-Structures-Fundamentals\07.Heaps-BST-Exercise-Exercises-Skeleton\04.CookiesProblem\bin\Debug\netstandard2.0\04.CookiesProblem.pdb
+C:\Users\User\Desktop\Data-Structures-Fundamentals\07.Heaps-BST-Exercise-Exercises-Skeleton\04.CookiesProblem\bin\Debug\netstandard2.0\03.MinHeap.dll
+C:\Users\User\Desktop\Data-Structures-Fundamentals\07.Heaps-BST-Exercise-Exercises-Skeleton\04.CookiesProblem\bin\Debug\netstandard2.0\03.MinHeap.pdb
+C:\Users\User\Desktop\Data-Structures-Fundamentals\07.Heaps-BST-Exercise-Exercises-Skeleton\04.CookiesProblem\obj\Debug\netstandard2.0\04.CookiesProblem.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Data-Structures-Fundamentals\07.Heaps-BST-Exercise-Exercises-Skeleton\04.CookiesProblem\obj\Debug\netstandard2.0\04.CookiesProblem.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Data-Structures-Fundamentals\07.Heaps-BST-Exercise-Exercises-Skeleton\04.CookiesProblem\obj\Debug\netstandard2.0\04.CookiesProblem.AssemblyInfo.cs
+C:\Users\User\Desktop\Data-Structures-Fundamentals\07.Heaps-BST-Exercise-Exercises-Skeleton\04.CookiesProblem\obj\Debug\netstandard2.0\04.CookiesProblem.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Data-Structures-Fundamentals\07.Heaps-BST-Exercise-Exercises-Skeleton\04.CookiesProblem\obj\Debug\netstandard2.0\04.CookiesProblem.csproj.CopyComplete
+C:\Users\User\Desktop\Data-Structures-Fundamentals\07.Heaps-BST-Exercise-Exercises-Skeleton\04.CookiesProblem\obj\Debug\netstandard2.0\04.CookiesProblem.dll
+C:\Users\User\Desktop\Data-Structures-Fundamentals\07.Heaps-BST-Exercise-Exercises-Skeleton\04.CookiesProblem\obj\Debug\netstandard2.0\04.CookiesProblem.pdb

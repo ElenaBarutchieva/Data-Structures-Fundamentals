@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\Data-Structures-Fundamentals\07.Heaps-BST-Exercise-Exercises-Skeleton\02.LowestCommonAncestor\bin\Debug\netstandard2.0\02.LowestCommonAncestor.deps.json
+C:\Users\User\Desktop\Data-Structures-Fundamentals\07.Heaps-BST-Exercise-Exercises-Skeleton\02.LowestCommonAncestor\bin\Debug\netstandard2.0\02.LowestCommonAncestor.dll
+C:\Users\User\Desktop\Data-Structures-Fundamentals\07.Heaps-BST-Exercise-Exercises-Skeleton\02.LowestCommonAncestor\bin\Debug\netstandard2.0\02.LowestCommonAncestor.pdb
+C:\Users\User\Desktop\Data-Structures-Fundamentals\07.Heaps-BST-Exercise-Exercises-Skeleton\02.LowestCommonAncestor\obj\Debug\netstandard2.0\02.LowestCommonAncestor.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Data-Structures-Fundamentals\07.Heaps-BST-Exercise-Exercises-Skeleton\02.LowestCommonAncestor\obj\Debug\netstandard2.0\02.LowestCommonAncestor.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Data-Structures-Fundamentals\07.Heaps-BST-Exercise-Exercises-Skeleton\02.LowestCommonAncestor\obj\Debug\netstandard2.0\02.LowestCommonAncestor.AssemblyInfo.cs
+C:\Users\User\Desktop\Data-Structures-Fundamentals\07.Heaps-BST-Exercise-Exercises-Skeleton\02.LowestCommonAncestor\obj\Debug\netstandard2.0\02.LowestCommonAncestor.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Data-Structures-Fundamentals\07.Heaps-BST-Exercise-Exercises-Skeleton\02.LowestCommonAncestor\obj\Debug\netstandard2.0\02.LowestCommonAncestor.dll
+C:\Users\User\Desktop\Data-Structures-Fundamentals\07.Heaps-BST-Exercise-Exercises-Skeleton\02.LowestCommonAncestor\obj\Debug\netstandard2.0\02.LowestCommonAncestor.pdb

@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\Data-Structures-Fundamentals\07.Heaps-BST-Exercise-Exercises-Skeleton\05.TopView\bin\Debug\netstandard2.0\05.TopView.deps.json
+C:\Users\User\Desktop\Data-Structures-Fundamentals\07.Heaps-BST-Exercise-Exercises-Skeleton\05.TopView\bin\Debug\netstandard2.0\05.TopView.dll
+C:\Users\User\Desktop\Data-Structures-Fundamentals\07.Heaps-BST-Exercise-Exercises-Skeleton\05.TopView\bin\Debug\netstandard2.0\05.TopView.pdb
+C:\Users\User\Desktop\Data-Structures-Fundamentals\07.Heaps-BST-Exercise-Exercises-Skeleton\05.TopView\obj\Debug\netstandard2.0\05.TopView.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Data-Structures-Fundamentals\07.Heaps-BST-Exercise-Exercises-Skeleton\05.TopView\obj\Debug\netstandard2.0\05.TopView.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Data-Structures-Fundamentals\07.Heaps-BST-Exercise-Exercises-Skeleton\05.TopView\obj\Debug\netstandard2.0\05.TopView.AssemblyInfo.cs
+C:\Users\User\Desktop\Data-Structures-Fundamentals\07.Heaps-BST-Exercise-Exercises-Skeleton\05.TopView\obj\Debug\netstandard2.0\05.TopView.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Data-Structures-Fundamentals\07.Heaps-BST-Exercise-Exercises-Skeleton\05.TopView\obj\Debug\netstandard2.0\05.TopView.dll
+C:\Users\User\Desktop\Data-Structures-Fundamentals\07.Heaps-BST-Exercise-Exercises-Skeleton\05.TopView\obj\Debug\netstandard2.0\05.TopView.pdb

@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\Data-Structures-Fundamentals\07.Heaps-BST-Exercise-Exercises-Skeleton\01.BSTOperations\bin\Debug\netstandard2.0\01.BSTOperations.deps.json
+C:\Users\User\Desktop\Data-Structures-Fundamentals\07.Heaps-BST-Exercise-Exercises-Skeleton\01.BSTOperations\bin\Debug\netstandard2.0\01.BSTOperations.dll
+C:\Users\User\Desktop\Data-Structures-Fundamentals\07.Heaps-BST-Exercise-Exercises-Skeleton\01.BSTOperations\bin\Debug\netstandard2.0\01.BSTOperations.pdb
+C:\Users\User\Desktop\Data-Structures-Fundamentals\07.Heaps-BST-Exercise-Exercises-Skeleton\01.BSTOperations\obj\Debug\netstandard2.0\01.BSTOperations.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Data-Structures-Fundamentals\07.Heaps-BST-Exercise-Exercises-Skeleton\01.BSTOperations\obj\Debug\netstandard2.0\01.BSTOperations.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Data-Structures-Fundamentals\07.Heaps-BST-Exercise-Exercises-Skeleton\01.BSTOperations\obj\Debug\netstandard2.0\01.BSTOperations.AssemblyInfo.cs
+C:\Users\User\Desktop\Data-Structures-Fundamentals\07.Heaps-BST-Exercise-Exercises-Skeleton\01.BSTOperations\obj\Debug\netstandard2.0\01.BSTOperations.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Data-Structures-Fundamentals\07.Heaps-BST-Exercise-Exercises-Skeleton\01.BSTOperations\obj\Debug\netstandard2.0\01.BSTOperations.dll
+C:\Users\User\Desktop\Data-Structures-Fundamentals\07.Heaps-BST-Exercise-Exercises-Skeleton\01.BSTOperations\obj\Debug\netstandard2.0\01.BSTOperations.pdb

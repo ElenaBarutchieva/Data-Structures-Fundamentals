@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\Data-Structures-Fundamentals\07.Heaps-BST-Exercise-Exercises-Skeleton\03.MinHeap\bin\Debug\netstandard2.0\03.MinHeap.deps.json
+C:\Users\User\Desktop\Data-Structures-Fundamentals\07.Heaps-BST-Exercise-Exercises-Skeleton\03.MinHeap\bin\Debug\netstandard2.0\03.MinHeap.dll
+C:\Users\User\Desktop\Data-Structures-Fundamentals\07.Heaps-BST-Exercise-Exercises-Skeleton\03.MinHeap\bin\Debug\netstandard2.0\03.MinHeap.pdb
+C:\Users\User\Desktop\Data-Structures-Fundamentals\07.Heaps-BST-Exercise-Exercises-Skeleton\03.MinHeap\obj\Debug\netstandard2.0\03.MinHeap.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Data-Structures-Fundamentals\07.Heaps-BST-Exercise-Exercises-Skeleton\03.MinHeap\obj\Debug\netstandard2.0\03.MinHeap.AssemblyInfo.cs
+C:\Users\User\Desktop\Data-Structures-Fundamentals\07.Heaps-BST-Exercise-Exercises-Skeleton\03.MinHeap\obj\Debug\netstandard2.0\03.MinHeap.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Data-Structures-Fundamentals\07.Heaps-BST-Exercise-Exercises-Skeleton\03.MinHeap\obj\Debug\netstandard2.0\03.MinHeap.dll
+C:\Users\User\Desktop\Data-Structures-Fundamentals\07.Heaps-BST-Exercise-Exercises-Skeleton\03.MinHeap\obj\Debug\netstandard2.0\03.MinHeap.pdb
+C:\Users\User\Desktop\Data-Structures-Fundamentals\07.Heaps-BST-Exercise-Exercises-Skeleton\03.MinHeap\obj\Debug\netstandard2.0\03.MinHeap.csprojAssemblyReference.cache
