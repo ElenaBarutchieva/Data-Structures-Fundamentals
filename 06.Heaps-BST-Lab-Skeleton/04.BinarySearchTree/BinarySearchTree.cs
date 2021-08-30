@@ -18,10 +18,6 @@
 
         public T Value { get { return this.Root.Value; } }
 
-        public Node<T> LeftChild { get; set; }
-
-        public Node<T> RightChild { get; set; }
-
         public bool Contains(T element)
         {
             if (this.Search(element) == null)

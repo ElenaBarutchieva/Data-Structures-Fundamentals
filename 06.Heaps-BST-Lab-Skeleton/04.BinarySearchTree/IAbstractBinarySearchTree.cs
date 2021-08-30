@@ -14,9 +14,5 @@
         Node<T> Root { get;}
 
         T Value { get; }
-
-        Node<T> LeftChild { get; set; }
-
-        Node<T> RightChild { get; set; }
     }
 }
