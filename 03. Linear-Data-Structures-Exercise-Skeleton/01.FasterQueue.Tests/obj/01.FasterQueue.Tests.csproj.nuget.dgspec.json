@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Downloads\\03. Linear-Data-Structures-Exercise-Skeleton\\01.FasterQueue.Tests\\01.FasterQueue.Tests.csproj": {}
+    "C:\\Users\\lenib\\Desktop\\Data-Structures-Fundamentals\\03. Linear-Data-Structures-Exercise-Skeleton\\01.FasterQueue.Tests\\01.FasterQueue.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Downloads\\03. Linear-Data-Structures-Exercise-Skeleton\\01.FasterQueue.Tests\\01.FasterQueue.Tests.csproj": {
+    "C:\\Users\\lenib\\Desktop\\Data-Structures-Fundamentals\\03. Linear-Data-Structures-Exercise-Skeleton\\01.FasterQueue.Tests\\01.FasterQueue.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Downloads\\03. Linear-Data-Structures-Exercise-Skeleton\\01.FasterQueue.Tests\\01.FasterQueue.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\lenib\\Desktop\\Data-Structures-Fundamentals\\03. Linear-Data-Structures-Exercise-Skeleton\\01.FasterQueue.Tests\\01.FasterQueue.Tests.csproj",
         "projectName": "01.FasterQueue.Tests",
-        "projectPath": "C:\\Users\\User\\Downloads\\03. Linear-Data-Structures-Exercise-Skeleton\\01.FasterQueue.Tests\\01.FasterQueue.Tests.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Downloads\\03. Linear-Data-Structures-Exercise-Skeleton\\01.FasterQueue.Tests\\obj\\",
+        "projectPath": "C:\\Users\\lenib\\Desktop\\Data-Structures-Fundamentals\\03. Linear-Data-Structures-Exercise-Skeleton\\01.FasterQueue.Tests\\01.FasterQueue.Tests.csproj",
+        "packagesPath": "C:\\Users\\lenib\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lenib\\Desktop\\Data-Structures-Fundamentals\\03. Linear-Data-Structures-Exercise-Skeleton\\01.FasterQueue.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\lenib\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\User\\Downloads\\03. Linear-Data-Structures-Exercise-Skeleton\\01.FasterQueue\\01.FasterQueue.csproj": {
-                "projectPath": "C:\\Users\\User\\Downloads\\03. Linear-Data-Structures-Exercise-Skeleton\\01.FasterQueue\\01.FasterQueue.csproj"
+              "C:\\Users\\lenib\\Desktop\\Data-Structures-Fundamentals\\03. Linear-Data-Structures-Exercise-Skeleton\\01.FasterQueue\\01.FasterQueue.csproj": {
+                "projectPath": "C:\\Users\\lenib\\Desktop\\Data-Structures-Fundamentals\\03. Linear-Data-Structures-Exercise-Skeleton\\01.FasterQueue\\01.FasterQueue.csproj"
               }
             }
           }
@@ -72,21 +72,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\User\\Downloads\\03. Linear-Data-Structures-Exercise-Skeleton\\01.FasterQueue\\01.FasterQueue.csproj": {
+    "C:\\Users\\lenib\\Desktop\\Data-Structures-Fundamentals\\03. Linear-Data-Structures-Exercise-Skeleton\\01.FasterQueue\\01.FasterQueue.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Downloads\\03. Linear-Data-Structures-Exercise-Skeleton\\01.FasterQueue\\01.FasterQueue.csproj",
+        "projectUniqueName": "C:\\Users\\lenib\\Desktop\\Data-Structures-Fundamentals\\03. Linear-Data-Structures-Exercise-Skeleton\\01.FasterQueue\\01.FasterQueue.csproj",
         "projectName": "01.FasterQueue",
-        "projectPath": "C:\\Users\\User\\Downloads\\03. Linear-Data-Structures-Exercise-Skeleton\\01.FasterQueue\\01.FasterQueue.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Downloads\\03. Linear-Data-Structures-Exercise-Skeleton\\01.FasterQueue\\obj\\",
+        "projectPath": "C:\\Users\\lenib\\Desktop\\Data-Structures-Fundamentals\\03. Linear-Data-Structures-Exercise-Skeleton\\01.FasterQueue\\01.FasterQueue.csproj",
+        "packagesPath": "C:\\Users\\lenib\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lenib\\Desktop\\Data-Structures-Fundamentals\\03. Linear-Data-Structures-Exercise-Skeleton\\01.FasterQueue\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\lenib\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -126,7 +126,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F2xZ4NLTOpTqSlEvBXdLIl7UAXfNCZjEPCBm+OvV9J8OSHIc3vr64zQxXussP40zAbligBxukfVJM5l8gvgHLg==",
+  "dgSpecHash": "zMADyLa08PSslraIzlneUe41oDHt4Q8EZjW3FEkSbBXQIXHYiJ8o/IoJu1ZnfJdtttq3cGTStl9ibsyK9CLq0A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\Downloads\\03. Linear-Data-Structures-Exercise-Skeleton\\02.DoublyLinkedList\\02.DoublyLinkedList.csproj",
+  "projectFilePath": "C:\\Users\\lenib\\Desktop\\Data-Structures-Fundamentals\\03. Linear-Data-Structures-Exercise-Skeleton\\02.DoublyLinkedList\\02.DoublyLinkedList.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

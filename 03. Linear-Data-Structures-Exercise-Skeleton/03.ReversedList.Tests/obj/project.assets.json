@@ -4636,19 +4636,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "C:\\Users\\lenib\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Downloads\\03. Linear-Data-Structures-Exercise-Skeleton\\03.ReversedList.Tests\\03.ReversedList.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\lenib\\Desktop\\Data-Structures-Fundamentals\\03. Linear-Data-Structures-Exercise-Skeleton\\03.ReversedList.Tests\\03.ReversedList.Tests.csproj",
       "projectName": "03.ReversedList.Tests",
-      "projectPath": "C:\\Users\\User\\Downloads\\03. Linear-Data-Structures-Exercise-Skeleton\\03.ReversedList.Tests\\03.ReversedList.Tests.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Downloads\\03. Linear-Data-Structures-Exercise-Skeleton\\03.ReversedList.Tests\\obj\\",
+      "projectPath": "C:\\Users\\lenib\\Desktop\\Data-Structures-Fundamentals\\03. Linear-Data-Structures-Exercise-Skeleton\\03.ReversedList.Tests\\03.ReversedList.Tests.csproj",
+      "packagesPath": "C:\\Users\\lenib\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lenib\\Desktop\\Data-Structures-Fundamentals\\03. Linear-Data-Structures-Exercise-Skeleton\\03.ReversedList.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\lenib\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4662,8 +4662,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\User\\Downloads\\03. Linear-Data-Structures-Exercise-Skeleton\\03.ReversedList\\03.ReversedList.csproj": {
-              "projectPath": "C:\\Users\\User\\Downloads\\03. Linear-Data-Structures-Exercise-Skeleton\\03.ReversedList\\03.ReversedList.csproj"
+            "C:\\Users\\lenib\\Desktop\\Data-Structures-Fundamentals\\03. Linear-Data-Structures-Exercise-Skeleton\\03.ReversedList\\03.ReversedList.csproj": {
+              "projectPath": "C:\\Users\\lenib\\Desktop\\Data-Structures-Fundamentals\\03. Linear-Data-Structures-Exercise-Skeleton\\03.ReversedList\\03.ReversedList.csproj"
             }
           }
         }
@@ -4706,7 +4706,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

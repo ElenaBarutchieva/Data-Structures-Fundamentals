@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Siuo5B00qLCUJIsm8h5KrhRegvkb+eTAAIFKC97N+Y9zPbrzz65RcbMkIL5IdN2aAMEJUVqCYm4hJxhauiHU3A==",
+  "dgSpecHash": "SnAEdpasJebecyge1QCJaKZ0z2PR+hsknqBvpxLn4CGG/hjAouJ/xgIwGy8lRXXvZ3HNI8oOCchCX0+1gw3GTQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\Downloads\\03. Linear-Data-Structures-Exercise-Skeleton\\04.BalancedParentheses\\04.BalancedParentheses.csproj",
+  "projectFilePath": "C:\\Users\\lenib\\Desktop\\Data-Structures-Fundamentals\\03. Linear-Data-Structures-Exercise-Skeleton\\04.BalancedParentheses\\04.BalancedParentheses.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
